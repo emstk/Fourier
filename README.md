@@ -1,4 +1,4 @@
-## Fourier analysis
+# Fourier analysis
 Fourier analysis
 
 ## Contents
