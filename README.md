@@ -2,8 +2,8 @@
 Fourier analysis
 
 ## Contents
--Fourier transformation
+- Fourier transformation
 
--low pass filter
+- low pass filter
 
--convolution with gabor function
+- convolution with gabor function
